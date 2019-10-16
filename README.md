@@ -8,6 +8,6 @@ Goal of the case study is to come up with project implementation methodology wit
 The test data is not released to the participants during the competition; now, however, jury will use it to validate the model accuracy using MAPE. Test data structure is same as the historical data structure and participants are expected to provide scoring logic that will be tested on test dataset for scoring.
 ## Data: 
 The dataset can be divided roughly into two parts, based on the different purposes of usage: a training set for model identification and parameter estimation, and an evaluation set for calculating scores. 
-    • Historical demand data at 30 minutes intervals for 2004, 2005 & 2006, at station level and overall.
-    • Holiday Indicator for 2004, 2005 and 2006.
-    • Weather data from 2004 to 2006 
+1. Historical demand data at 30 minutes intervals for 2004, 2005 & 2006, at station level and overall.
+2. Holiday Indicator for 2004, 2005 and 2006.
+3. Weather data from 2004 to 2006 
